@@ -59,7 +59,7 @@ OS: Windows/Linux/macOS
 
 Steps
 
-git clone https://github.com/yourusername/smart-file-organizer.git
+git clone https://github.com/ajaykofficial/SmartFileOrganizer.git
 cd smart-file-organizer
 pip install -r requirements.txt
 
